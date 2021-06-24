@@ -1,4 +1,4 @@
 title: PerfectTitle
 
-date: 2021-06-24
+date: 20210624
 
